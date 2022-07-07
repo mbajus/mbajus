@@ -4,6 +4,7 @@
 my Python and Django skills.
 
 ### :floppy_disk: My small projects
+* [Calculator](https://github.com/mbajus/calculator) - GUI calculator, which features addition, subtraction, multiplication, division, order of operations and equations.
 * [Hangman](https://github.com/mbajus/hangman) - console version of hangman, playable in english and polish with three difficulty levels.
 
 ### 📫 How to reach me
