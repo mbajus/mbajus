@@ -1,7 +1,7 @@
 ## "Hello world!" 👋
 
 ### 🔭 I’m currently working on
-backend, python
+backend, python, testing
 
 ### :floppy_disk: My small projects
 * [Lotto API](https://github.com/mbajus/lotto_api) - polish lottery API with main games, autoupdating from lotto.pl. It's on heroku [here](https://api-lotto.herokuapp.com/).
